@@ -7,4 +7,5 @@ Tallest person role-plays a student first. Open up the code, share your screen. 
 - Bug 2: https://scratch.mit.edu/projects/24271475/
 - Bug 4: countdown_bug.py (in this repo)
 - Bug 5: age_bugs.py (in this repo)
-- Bug 6: 
+- Bug 6: caesar_cipher_bug1.py
+- Bug 7: caesar_cipher_bug2.py (in this repo)
