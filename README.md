@@ -1,6 +1,6 @@
 # Debugging Practice
 
-Tallest person role-plays a student first. Open up the code, share your screen. Shortest person role-plays as the teacher and guides the student to debug their code. Then switch. For bugs 4-6, open the code in a text editor (such as Visual Studio Code).
+Tallest person role-plays a student first. Open up the code, student shares their screen. Shortest person role-plays as the teacher and guides the student to debug their code. Then switch. For bugs 4-6, open the code in a text editor (such as Visual Studio Code).
 
 - Bug 1: https://scratch.mit.edu/projects/24268476/
 - Bug 2: https://scratch.mit.edu/projects/23267140/
